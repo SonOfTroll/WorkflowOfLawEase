@@ -224,6 +224,4 @@ graph TD
    - Voice input for the chatbot
    - User accounts to save prediction history
 
----
 
-> **Good luck with the presentation! You've built something genuinely impressive. 🚀**
